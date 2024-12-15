@@ -45,7 +45,7 @@ Domain: domain.com
 ## File Structure
 
 ```
-email-slicer/
+Email_slicer/
 ├── email_slicer.py    # Main Python script
 ├── README.md          # Project documentation
 ```
@@ -60,13 +60,9 @@ email-slicer/
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or feedback, feel free to contact me:
-- **Email:** yourname@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** nrj.2318@gmail.com
+- **GitHub:** [niranjanNRJ](https://github.com/niranjanNRJ)
 
