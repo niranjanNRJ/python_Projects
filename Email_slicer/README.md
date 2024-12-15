@@ -23,7 +23,7 @@ Email Slicer is a beginner-friendly Python project that allows users to extract 
 2. Navigate to the project directory:
 
    ```bash
-   cd email-slicer
+   cd Email_slicer
    ```
 
 3. Run the Python script:
